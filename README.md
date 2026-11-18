@@ -1,4 +1,4 @@
-# ☕ Cafe-Cage
+#  Cafe-Cage
 
 ### Full Stack Cafe & Grocery Shopping Web Application
 
